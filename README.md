@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://i.imgur.com/RXuJOFp.gif?color=36BCF7FF&center=true&vCenter=true&lines=Computer+Science+Student;Software+Developer;Competitive+ProgrammerAlways+have+a+passion+for+learning&center=true&width=500&height=50"></a>
 </p>
+<br>
 
 # 💫 About Me:
 
