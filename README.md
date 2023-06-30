@@ -73,7 +73,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+![](https://i.imgur.com/Yn92UTm.png?type=horizontal&theme=radical)
 
 
 ## 🌐 Socials:
