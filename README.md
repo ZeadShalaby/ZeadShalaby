@@ -72,10 +72,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZeadShalaby&theme=onedark" alt="ZeadShalaby" /></a> </p>
 
 
-### ✍️ Random Dev Quote
-![](https://i.imgur.com/Yn92UTm.png?type=horizontal&theme=radical)
-
-
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/ziadshalaby16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zodicslanser" height="30" width="40" /></a>
