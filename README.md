@@ -70,7 +70,7 @@
 
 <br>
 
-## 🌐 Socials:
+## ❤ Views:
 
 <br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
