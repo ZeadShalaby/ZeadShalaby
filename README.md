@@ -70,7 +70,7 @@
 
 <br>
 
-## ❤ Views:
+## ❤ Views&Followers:
 
 <br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
