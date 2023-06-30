@@ -61,7 +61,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/ziadshalaby16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zodicslanser" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Ziad Shalaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-aldeen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ziad-shalaby-431666246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-aldeen" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -69,8 +69,8 @@
 <h2 ><p style="Times, serif">You can find me here, Let's Connect ❤️</p></h2>
 <p align=>
     <a href="https://www.linkedin.com/in/ziad-shalaby-431666246/"><img src="https://img.shields.io/badge/Linkedin-0b66c3?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://t.me/Ziad Shalaby"><img src="https://img.shields.io/badge/Telegram-1a8ad5?style=flat&logo=Telegram&logoColor=white"/></a>
-    <a href="https://www.facebook.com/ziad.shalaby/"><img src="https://img.shields.io/badge/facebook-3982e4?style=flat&logo=facebook&logoColor=white"/></a>
+    <a href="https://t.me/zeadshalaby"><img src="https://img.shields.io/badge/Telegram-1a8ad5?style=flat&logo=Telegram&logoColor=white"/></a>
+    <a href="https://web.facebook.com/ziad.shalaby.94"><img src="https://img.shields.io/badge/facebook-3982e4?style=flat&logo=facebook&logoColor=white"/></a>
     <a href="mailto:zeadshalaby1@gmail.com"><img src="https://img.shields.io/badge/Gmail-e34033?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
 
