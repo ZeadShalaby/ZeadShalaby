@@ -9,10 +9,9 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Computer+Science+Student;Software+Developer;Competitive+Programmer;Apassionate+with+unrealistic+expectations;Always+have+a+passion+for+learning&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Computer+Science+Student;Software+Developer;Competitive+Programmer;passionate+Cs+Student+with+unrealistic+expectations;Always+have+a+passion+for+learning&center=true&width=500&height=50"></a>
 </p>
 <br>
-
 # 💫 About Me:
 
 - 💻 I’m currently working on **Research**
