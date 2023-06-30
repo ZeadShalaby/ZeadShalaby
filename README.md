@@ -55,7 +55,13 @@
  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
  
 ---->
-</p>
+</p
+	<p align=>
+    <a href="https://www.linkedin.com/in/zeyad-nasef-aa0a49201/"><img src="https://img.shields.io/badge/Linkedin-0b66c3?style=flat&logo=linkedin&logoColor=white"/></a>
+     <a href="https://t.me/Zeyad_Nasef"><img src="https://img.shields.io/badge/Telegram-1a8ad5?style=flat&logo=Telegram&logoColor=white"/></a>
+    <a href="https://www.facebook.com/zeiad.nasef/"><img src="https://img.shields.io/badge/facebook-3982e4?style=flat&logo=facebook&logoColor=white"/></a>
+    <a href="mailto:zeyadnasef85@gmail.com"><img src="https://img.shields.io/badge/Gmail-e34033?style=flat&logo=Gmail&logoColor=white"/></a>
+  </p>
 <!--Competitive Programing-->
 <h2 ><p style="Times, serif">My Competitive Programming Profiles</p></h2>
 <div>
