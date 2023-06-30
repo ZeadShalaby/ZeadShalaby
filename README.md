@@ -68,8 +68,8 @@
 
 <h2 ><p style="Times, serif">You can find me here, Let's Connect ❤️</p></h2>
 <p align=>
-    <a href="https://www.linkedin.com/in/Ziad Shalaby/"><img src="https://img.shields.io/badge/Linkedin-0b66c3?style=flat&logo=linkedin&logoColor=white"/></a>
-     <a href="https://t.me/Ziad Shalaby"><img src="https://img.shields.io/badge/Telegram-1a8ad5?style=flat&logo=Telegram&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/ziad-shalaby-431666246/"><img src="https://img.shields.io/badge/Linkedin-0b66c3?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://t.me/Ziad Shalaby"><img src="https://img.shields.io/badge/Telegram-1a8ad5?style=flat&logo=Telegram&logoColor=white"/></a>
     <a href="https://www.facebook.com/ziad.shalaby/"><img src="https://img.shields.io/badge/facebook-3982e4?style=flat&logo=facebook&logoColor=white"/></a>
     <a href="mailto:zeadshalaby1@gmail.com"><img src="https://img.shields.io/badge/Gmail-e34033?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
