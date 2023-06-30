@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://i.imgur.com/ENoTZOT.gif" width="30px">, I'm Zead Shalaby</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://i.imgur.com/RXuJOFp.gif?color=36BCF7FF&center=true&vCenter=true&lines=Computer+Science+Student;Software+Developer;Competitive+Programmer;A+passionate+CS+student+with+unrealistic+expectations;Always+have+a+passion+for+learning&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://i.imgur.com/RXuJOFp.gif?color=36BCF7FF&center=true&vCenter=true&lines=Computer+Science+Student;Software+Developer;Competitive+ProgrammerAlways+have+a+passion+for+learning&center=true&width=500&height=50"></a>
 </p>
 
 # 💫 About Me:
