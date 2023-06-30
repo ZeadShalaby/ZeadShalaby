@@ -37,16 +37,16 @@
 
 <h2 ><p style="Times, serif">My Competitive Programming Profiles</p></h2>
 <div>
-  <a href="https://codeforces.com/profile/*******"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=4%/></a>
+  <a href="https://codeforces.com/profile/ziad_shalaby"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=4%/></a>
 	  &emsp; 
-	<a href="https://leetcode.com/*******/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%3/></a>
+  <a href="https://leetcode.com/shalabyziad0/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%3/></a>
 </div>
 
 </h2>
  <br>
 
 <p align="center">
-    <a href="https://github.com/shohan-cse/github-readme-streak-stats">
+    <a href="https://github.com/ZeadShalaby/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Md Shohanur Rahman's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shohan-cse&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
