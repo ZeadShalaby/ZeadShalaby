@@ -63,7 +63,9 @@
 
 
 
-
+# 📊 GitHub Stats & Trophies:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeadShalaby&show_icons=true&theme=dark&locale=en" alt="ZeadShalaby" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZeadShalaby&theme=onedark" alt="ZeadShalaby" /></a> </p>
 
 
 ## 🌐 Socials:
