@@ -24,7 +24,7 @@
 
 - 🔗 All of my projects are available at **[GitHub Profile](https://github.com/ZeadShalaby/)**
 
-- 📫 How to reach me  **zeadshalaby@gmail.com**
+- 📫 How to reach me  **zeadshalaby1@gmail.com**
 
 
 # 💻 Tech Stack:
