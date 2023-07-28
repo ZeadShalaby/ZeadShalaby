@@ -61,11 +61,7 @@
 </h2>
  <br>
 
-<p align="center">
-    <a href="https://github.com/ZeadShalaby/github-readme-streak-stats">
-       
-    </a>
-</p>
+
 
 # 📊 GitHub Stats & Trophies:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeadShalaby&show_icons=true&theme=dark&locale=en" alt="ZeadShalaby" /></p>
