@@ -79,8 +79,8 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://twitter.com/ziadshalaby16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zodicslanser" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ziad-shalaby-431666246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-aldeen" height="30" width="40" /></a>
+<a href="https://twitter.com/ziadshalaby16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeadshalaby" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zead-shalaby-431666246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-aldeen" height="30" width="40" /></a>
 </p>
 
 <br>
