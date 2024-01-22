@@ -4,14 +4,14 @@
 
 <h1 align="center">Hi <img src="https://i.imgur.com/ENoTZOT.gif" width="30px">, I'm Zead Shalaby</h1>
 
-<div align="center">
+<!--<div align="center">
         <img src='https://i.imgur.com/RXuJOFp.gif' alt='Software Developer' />
 </div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Computer+Science+Student;Software+Developer;Competitive+Programmer;Eager+Cs+Student+with+unrealistic+expectations;Always+have+a+passion+for+learning&center=true&width=500&height=50"></a>
 </p>
-
+-->
 # 💫 About Me:
 
 - 💻 I’m currently working on **Research**
