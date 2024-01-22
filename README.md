@@ -14,15 +14,19 @@
 -->
 # 💫 About Me:
 
+- 🎓 I'm a Senior CS Student @FCI - Menoufia University.
+
 - 💻 I’m currently working on **Research**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **Computer Science, Software Engineering**
 
 - 🍂 I’m looking to collaborate on **OpenSource Projects**
 
 - ⚡ Fun fact **Life is opportunities, and if you get the chance, have it...**
+  
+- 📂 I’m currently open for a new Internship or Job opportunity.**[Here's MY RESUME.](https://github.com/ZeadShalaby/)** 
 
-- 🔗 All of my projects are available at **[GitHub Profile](https://github.com/ZeadShalaby/)**
+- 🔗 All of my projects are available at **[GitHub Profile](https://drive.google.com/file/d/1KGkvdcity2K11V_RwydlLFCtoaAkypFM/view)**
 
 - 📫 How to reach me  **zeadshalaby1@gmail.com**
 
