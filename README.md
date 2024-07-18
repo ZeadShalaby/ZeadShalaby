@@ -14,11 +14,11 @@
 -->
 # 💫 About Me:
 
-- 🎓 I'm a Senior CS Student @FCI - Menoufia University.
+<!--- 🎓 I'm a Senior CS Student @FCI - Menoufia University.-->
 
-- 💻 I’m currently working on **Research**
+<!-- 💻 I’m currently working on **Research**-->
 
-- 🌱 I’m currently learning **Computer Science, Software Engineering**
+- 🌱  I’m currently learning Backend Development, Malware Analysis
 
 - 🍂 I’m looking to collaborate on **OpenSource Projects**
   
