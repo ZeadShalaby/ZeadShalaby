@@ -20,7 +20,7 @@
 
 - 🌱  I’m currently learning Backend Development, Malware Analysis
 
-- 🍂 I’m looking to collaborate on **OpenSource Projects**
+<!-- 🍂 I’m looking to collaborate on **OpenSource Projects** -->
   
 - 📂 I’m currently open for a new Internship or Job opportunity.**[Here's MY RESUME.](https://drive.google.com/file/d/1KGkvdcity2K11V_RwydlLFCtoaAkypFM/view)** 
 
