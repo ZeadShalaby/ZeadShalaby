@@ -45,21 +45,11 @@
 ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)  
 [![My Skills](https://skillicons.dev/icons?i=photoshop)](https://skillicons.dev)
 <br>
-<!--![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
-<!--![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<!--![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 (https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 <!--![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)-->
 
-
-
-<!----
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-
- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
- 
----->
 
 	
 <!--Competitive Programing-->
@@ -79,7 +69,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeadShalaby&show_icons=true&theme=dark&locale=en" alt="ZeadShalaby" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZeadShalaby&theme=onedark" alt="ZeadShalaby" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeadShalaby&show_icons=true&theme=onedark&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&locale=en&layout=compact" alt="ZeadShalaby" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeadShalaby&show_icons=true&theme=onedarklocale=en&layout=compact" alt="ZeadShalaby" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeadShalaby&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="ZeadShalaby" /></p>
 
 ## 🌐 Socials:
