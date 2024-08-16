@@ -1,26 +1,10 @@
-<!--
-**ZeadShalaby/ZeadShalaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 <h1 align="center">Hi <img src="https://i.imgur.com/ENoTZOT.gif" width="30px">, I'm Zead Shalaby</h1>
 
-<!--<div align="center">
-        <img src='https://i.imgur.com/RXuJOFp.gif' alt='Software Developer' />
-</div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Computer+Science+Student;Software+Developer;Competitive+Programmer;Eager+Cs+Student+with+unrealistic+expectations;Always+have+a+passion+for+learning&center=true&width=500&height=50"></a>
-</p>
--->
 # 💫 About Me:
 
-<!--- 🎓 I'm a Senior CS Student @FCI - Menoufia University.-->
-
-<!-- 💻 I’m currently working on **Research**-->
-
 - 🌱  I’m currently learning Backend Development, Malware Analysis
-
-<!-- 🍂 I’m looking to collaborate on **OpenSource Projects** -->
   
 - 📂 I’m currently open for a new Internship or Job opportunity.**[Here's MY RESUME.](https://drive.google.com/file/d/1KGkvdcity2K11V_RwydlLFCtoaAkypFM/view)** 
 
@@ -45,13 +29,8 @@
 ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)  
 [![My Skills](https://skillicons.dev/icons?i=photoshop)](https://skillicons.dev)
 <br>
-<!--![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-(https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-<!--![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)-->
 
-
-	
+ 
 <!--Competitive Programing-->
 <h2 ><p style="Times, serif">My Competitive Programming Profiles</p></h2>
 <div>
@@ -69,7 +48,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeadShalaby&show_icons=true&theme=dark&locale=en" alt="ZeadShalaby" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZeadShalaby&theme=onedark" alt="ZeadShalaby" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeadShalaby&show_icons=true&theme=onedark&locale=en&layout=compact&hide_border=true&stroke=0000" alt="ZeadShalaby"  width="100" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeadShalaby&show_icons=true&theme=onedark&locale=en&layout=compact&hide_border=true&stroke=0000" alt="ZeadShalaby" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeadShalaby&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="ZeadShalaby" /></p>
 
 ## 🌐 Socials:
