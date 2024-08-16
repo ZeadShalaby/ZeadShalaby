@@ -27,17 +27,16 @@
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/eg/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/R0Atu5l.png" alt="oracle" width="40" height="40"/> </a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/eg/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/R0Atu5l.png" alt="oracle" width="50" height="40"/> </a>
 <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/Abgqz6ml.png" alt="apache" width="40" height="40"/> </a>
-	
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/zTEgA75.png" alt="apache" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/i3xpcz1.png" alt="apache" width="40" height="40"/> </a>
-
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/JBaWLfY.png" alt="apache" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/FmIJSRy.png" alt="apache" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/vmYQdwH.png" alt="apache" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/x6qd1NM.png" alt="apache" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/y7dl7w1.png" alt="apache" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/zTEgA75.png" alt="Laravel" width="40" height="40"/> </a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/i3xpcz1.png" alt="jquery" width="40" height="40"/> </a>
+<a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/JBaWLfY.png" alt="XAMPP" width="40" height="40"/> </a>
+<a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/FmIJSRy.png" alt="spyder" width="40" height="40"/> </a>
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/vmYQdwH.png" alt="jwt" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank" rel="noreferrer"> <img src="https://imgur.com/x6qd1NM.png" alt="json" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/y7dl7w1.png" alt="github" width="40" height="40"/> </a>
 
 
 </p>
