@@ -48,7 +48,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeadShalaby&show_icons=true&theme=dark&locale=en" alt="ZeadShalaby" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZeadShalaby&theme=onedark" alt="ZeadShalaby" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeadShalaby&show_icons=true&theme=onedark&locale=en&layout=compact&hide_border=true&stroke=0000" alt="ZeadShalaby"  width="550" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeadShalaby&show_icons=true&theme=onedark&locale=en&layout=compact&hide_border=true&stroke=0000" alt="ZeadShalaby"  width="300" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeadShalaby&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="ZeadShalaby" /></p>
 
 ## 🌐 Socials:
