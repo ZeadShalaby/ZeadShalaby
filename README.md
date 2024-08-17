@@ -6,7 +6,7 @@
 
 - 🌱  I’m currently learning Backend Development, Malware Analysis
   
-- 📂 I’m currently open for a new Internship or Job opportunity.**[Here's MY RESUME.](https://drive.google.com/file/d/1KGkvdcity2K11V_RwydlLFCtoaAkypFM/view)** 
+- 📂 I’m currently open for a new Internship or Job opportunity.**[Here's MY RESUME.](https://drive.google.com/file/d/1xnR71AJ0pvkjeM62NihVbGTK3BWt3bJr/view)** 
 
 - 🔗 All of my projects are available at **[GitHub Profile](https://github.com/ZeadShalaby/)**
 
