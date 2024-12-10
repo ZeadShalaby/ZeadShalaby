@@ -4,9 +4,9 @@
 
 # 💫 About Me:
 
-- 🌱  I’m currently learning Backend Development, Malware Analysis
+- 🌱  I’m currently learning Backend Development, Malware Analysis   
   
-- 📂 I’m currently open for a new Internship or Job opportunity.**[Here's MY RESUME.](https://drive.google.com/file/d/156Zc3AK9AZu6Mh5r9UST9uKgmazAQejY/view?usp=sharing)** 
+- 📂 I’m currently open for a new Internship or Job opportunity.**[Here's MY RESUME.](https://drive.google.com/file/d/1YSehQbrz_Iv1sEfHmutm1Wgd96p4gUVR/view?usp=sharing)** 
 
 - 🔗 All of my projects are available at **[GitHub Profile](https://github.com/ZeadShalaby/)**
 
