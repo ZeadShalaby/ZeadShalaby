@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://i.imgur.com/ENoTZOT.gif" width="30px">, I'm Zead Shalaby</h1>
+<h1 align="center">Hi <img src="https://i.imgur.com/ENoTZOT.gif" width="30px">, I'm Ziad Shalaby</h1>
 
 
 # 💫 About Me:
