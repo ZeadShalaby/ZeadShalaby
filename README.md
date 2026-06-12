@@ -6,9 +6,9 @@
 
 - 👨‍💻 Backend Developer specializing in Laravel, PHP, RESTful APIs, Scalable Web Applications and Database Design.
 
-- 🚀 Passionate about building scalable and maintainable software solutions following Clean Architecture and best development practices.
+- 🚀 Passionate about building scalable & maintainable software solutions following Clean Architecture & best development practices.
 
-- 🌱 Currently learning Microservices, System Design, Spring Boot, and Malware Analysis.
+- 🌱 Currently learning Microservices, System Design, Backend Architecture, and Malware Analysis.
 
 - 🔍 Interested in Software Engineering, Cybersecurity, and emerging technologies.
 
