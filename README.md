@@ -4,15 +4,23 @@
 
 # 💫 About Me:
 
-- 🌱  I’m currently learning Backend Development, Malware Analysis   
-  
-- 📂 I’m currently open for a new Job opportunity.**[Here's MY RESUME.](https://drive.google.com/file/d/1YSehQbrz_Iv1sEfHmutm1Wgd96p4gUVR/view?usp=sharing)** 
+- 👨‍💻 Backend Developer specializing in Laravel, PHP, RESTful APIs, Scalable Web Applications and Database Design.
+
+- 🚀 Passionate about building scalable and maintainable software solutions following Clean Architecture and best development practices.
+
+- 🌱 Currently learning Microservices, System Design, Spring Boot, and Malware Analysis.
+
+- 🔍 Interested in Software Engineering, Cybersecurity, and emerging technologies.
+
+- 💼 Open to Backend Developer opportunities and collaborative projects.
+
+- 📂 **[Here's My Resume.]([YOUR_RESUME_LINK](https://drive.google.com/file/d/1MU56eCfQwIkc2KHU7qHoCz2LvMdfRQ4M/view?usp=sharing))**
 
 - 🔗 All of my projects are available at **[GitHub Profile](https://github.com/ZeadShalaby/)**
 
-- 📫 How to reach me  **zeadshalaby1@gmail.com**
+- 📫 How to reach me: **zeadshalaby1@gmail.com**
 
-- ⚡ Fun fact **Life is opportunities, and if you get the chance, have it...**
+- ⚡ Fun fact: **Life is full of opportunities—when the right one comes, take it.**
 
 # 💻 Tech Stack:
 <p align="left"> 
