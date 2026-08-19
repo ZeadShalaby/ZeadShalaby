@@ -79,8 +79,34 @@
 </h2>
 <br>
 
-📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeadShalaby&show_icons=true&theme=dark&locale=en&count_private=true" alt="ZeadShalaby" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeadShalaby&show_icons=true&theme=onedark&locale=en&layout=compact&hide_border=true&stroke=0000&count_private=true" alt="ZeadShalaby" width="400" /></p> <p><img align="center" src="https://streak-stats.demolab.com/?user=ZeadShalaby&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="ZeadShalaby" /></p>
+# 🚀 Featured Projects:
+
+**Taxi-Go** — Ride-hailing platform · Laravel + Node.js microservice for live driver/trip tracking · [Live Demo](https://taxista-go.com)
+<br>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-black?style=flat&logo=socket.io&logoColor=white)
+
+**Otlop Delivery** — Food delivery platform · Real-time order-status tracking · [Live Demo](https://otlop-delivery.com)
+<br>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**AuctraEngine** — Auction platform with Auto Bid, Buy Now & real-time bidding · [Live Demo](https://auctra.taxista-go.com)
+<br>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Yamtaz Platform** — Legal-tech SaaS with real-time video legal consultations · [Live Demo](https://ymtaz.sa)
+<br>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Pasma HRM** — HR management platform · Queue-driven architecture · [Live Demo](https://pasma.hashstudio.dev)
+<br>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+<br>
+
+# 📊 GitHub Stats:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeadShalaby&show_icons=true&theme=dark&locale=en&count_private=true" alt="ZeadShalaby" /></p>
+
+<sub>*Note: most of my production work lives in private company repositories, so the stats above reflect public activity only.*</sub>
 
 ## 🌐 Socials:
 <p align="left">
