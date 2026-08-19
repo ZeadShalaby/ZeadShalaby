@@ -19,7 +19,7 @@
 
 - 💼 Open to Backend / Full Stack opportunities and collaborative projects.
 
-- 📂 **[My Resume](https://drive.google.com/file/d/1MU56eCfQwIkc2KHU7qHoCz2LvMdfRQ4M/view?usp=sharing)**
+- 📂 **[My Resume](https://drive.google.com/file/d/1rMeAwp57dlr_I_lXMlXJy__8o0FsM2Ao/view?usp=sharing)**
 
 - 🔗 All of my projects are available at **[GitHub Profile](https://github.com/ZeadShalaby/)**
 
