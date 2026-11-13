@@ -1,31 +1,31 @@
-<h1 align="center">Hi <img src="https://i.imgur.com/ENoTZOT.gif" width="30px">, I'm Ziad Shalaby</h1>
-<h3 align="center">Backend / Full Stack Software Engineer — Laravel & Node.js</h3>
+<h1 align="center">Hi <img src="https://i.imgur.com/ENoTZOT.gif" width="30px">, I'm Salma Hamdy</h1>
+<h3 align="center">Backend Developer — Laravel, Node.js & Microservices</h3>
 
 # 💫 About Me:
 
-- 👨‍💻 Backend / Full Stack Engineer with hands-on experience designing and shipping **scalable web applications, RESTful APIs, and microservices** using **Laravel** and **Node.js**.
+- 👩‍💻 Backend Developer with **2 years of professional experience** building **scalable backend systems and RESTful APIs** across **e-commerce, SaaS, insurance, and workflow platforms**.
 
-- 🚀 Delivered production-ready platforms across **e-commerce, ride-hailing, HRM, online auctions, and legal-tech SaaS**.
+- 🚀 Built **MedRight**, a large-scale **CRM & ERP** platform for an insurance and pharmaceutical company serving **100,000+ users**, using **microservices** to keep core business logic independent and easy to extend.
 
-- ⚡ Real-time systems background: **WebSockets, Firebase, Agora SDK, Redis Streams**, and message-driven microservices.
+- ⚡ Real-time systems: **Laravel Reverb, Node.js WebSockets, Firebase push notifications**, with **Redis** caching for performance under heavy load.
 
-- 🏗️ Comfortable owning architecture decisions — **Service Layer, Repository Pattern, DTOs, Queues & Jobs**, and clean separation of concerns.
+- 🐍 Built a **Python** service that processes and replies to **5,000+ emails per day**, integrated with Laravel through APIs.
 
-- 🧪 Writes **PHPUnit** tests and maintains structured **Postman** collections to keep delivered code clean and reliable.
+- 🏗️ Clean architecture: **Service Layer, Repository Pattern, Events, Queues & Jobs**, and Design Patterns.
 
-- 🐳 Ships with **Docker, Kubernetes**, and **CI/CD** pipelines for consistent, repeatable deployments.
+- 🗄️ Strong foundation in relational databases — **MySQL, PostgreSQL** — schema design and query optimization.
 
-- 🌱 Currently sharpening skills in Microservices, System Design, Backend Architecture, and Malware Analysis.
+- 🎨 Comfortable with **React.js** and collaborating with front-end teams on API contracts.
 
-- 💼 Open to Backend / Full Stack opportunities and collaborative projects.
+- 🎓 BSc in Computer Science — **Menoufia University (FCI)**, 2024 · Web Development Course — **ITI**, 2022.
 
-- 📂 **[My Resume](https://drive.google.com/file/d/1rMeAwp57dlr_I_lXMlXJy__8o0FsM2Ao/view?usp=sharing)**
+- 💼 Open to Backend opportunities and collaborative projects.
 
-- 🔗 All of my projects are available at **[GitHub Profile](https://github.com/ZeadShalaby/)**
+- 📍 Based in Alexandria, Egypt.
 
-- 📫 How to reach me: **zeadshalaby1@gmail.com**
+- 🔗 All of my projects are available at **[GitHub Profile](https://github.com/salmahamdy1220)**
 
-- ⚡ Fun fact: **Life is full of opportunities—when the right one comes, take it.**
+- 📫 How to reach me: **salmahamdy1220@gmail.com**
 
 # 💻 Tech Stack:
 
@@ -33,100 +33,66 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/zTEgA75.png" alt="Laravel" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://imgur.com/WutQ1Tl.png" alt="express" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/5G1eAAX.png" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/V64XXdJ.png" alt="cpp" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <br/>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/> </a>
 <br/>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://inertiajs.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="inertia" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://imgur.com/Q5FRiig.png" alt="bootstrap" width="40" height="40"/> </a>
 <br/>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/y7dl7w1.png" alt="github" width="40" height="40"/> </a>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/vmYQdwH.png" alt="jwt" width="40" height="40"/> </a>
-<a href="https://www.agora.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/22884851?s=200&v=4" alt="agora" width="40" height="40"/> </a>
-<a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://imgur.com/JBaWLfY.png" alt="XAMPP" width="40" height="40"/> </a>
 </p>
-<br>
-
-<!--Competitive Programing-->
-<h2><p style="Times, serif">My Competitive Programming Profiles</p></h2>
-<div>
-  <a href="https://codeforces.com/profile/ziad_shalaby"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=4%/></a>
-	  &emsp;
-  <a href="https://leetcode.com/shalabyziad0/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%3/></a>
-</div>
-</h2>
 <br>
 
 # 🚀 Featured Projects:
 
-**Taxi-Go** — Ride-hailing platform · Laravel + Node.js microservice for live driver/trip tracking · [Live Demo](https://taxista-go.com)
+**MedRight** — Insurance CRM & ERP platform for an insurance and pharmaceutical company · **100,000+ users** · Microservices, role-based access, real-time updates, and a Python email-automation service handling **5,000+ emails/day**
 <br>
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-black?style=flat&logo=socket.io&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![WebSockets](https://img.shields.io/badge/WebSockets-black?style=flat&logo=socket.io&logoColor=white)
 
-**Otlop Delivery** — Food delivery platform · Real-time order-status tracking · [Live Demo](https://otlop-delivery.com)
+**Accessories Management System** — Sales, purchasing & POS · Inventory movement, buy/sell workflows, and cashier integration
 <br>
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**AuctraEngine** — Auction platform with Auto Bid, Buy Now & real-time bidding · [Live Demo](https://auctra.taxista-go.com)
-<br>
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Yamtaz Platform** — Legal-tech SaaS with real-time video legal consultations · [Live Demo](https://ymtaz.sa)
-<br>
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Pasma HRM** — HR management platform · Queue-driven architecture · [Live Demo](https://pasma.hashstudio.dev)
+**NextFlow** — Business management platform · Standalone CRM/ERP-style features with their own database logic, APIs, and business rules
 <br>
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Pets Park** — Pet-care & veterinary platform · Connects pet owners with vets, animal listings, payments, email notifications, and appointment follow-up
+<br>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Revive** — Backend modules and RESTful APIs with validation and structured responses
+<br>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 <br>
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeadShalaby&show_icons=true&theme=dark&locale=en&count_private=true" alt="ZeadShalaby" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmahamdy1220&show_icons=true&theme=dark&locale=en&count_private=true" alt="salmahamdy1220" /></p>
 
 <sub>*Note: most of my production work lives in private company repositories, so the stats above reflect public activity only.*</sub>
 
-## 🌐 Socials:
-<p align="left">
-<a href="https://twitter.com/ziadshalaby16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeadshalaby" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/zead-shalaby-431666246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-aldeen" height="30" width="40" /></a>
-</p>
 <br>
 
 <h2><p style="Times, serif">You can find me here, Let's Connect ❤️</p></h2>
-<p align=>
-    <a href="https://www.linkedin.com/in/ziad-shalaby-431666246/"><img src="https://img.shields.io/badge/Linkedin-0b66c3?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://t.me/zeadshalaby"><img src="https://img.shields.io/badge/Telegram-1a8ad5?style=flat&logo=Telegram&logoColor=white"/></a>
-    <a href="https://web.facebook.com/ziad.shalaby.94"><img src="https://img.shields.io/badge/facebook-3982e4?style=flat&logo=facebook&logoColor=white"/></a>
-    <a href="mailto:zeadshalaby1@gmail.com"><img src="https://img.shields.io/badge/Gmail-e34033?style=flat&logo=Gmail&logoColor=white"/></a>
-  </p>
+<p>
+    <a href="https://www.linkedin.com/in/salma-hamdy-4905463b6"><img src="https://img.shields.io/badge/Linkedin-0b66c3?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:salmahamdy1220@gmail.com"><img src="https://img.shields.io/badge/Gmail-e34033?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 <br>
 
 ## ❤ Views & Followers:
 <br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ZeadShalaby">
+    <img src="https://komarev.com/ghpvc/?username=salmahamdy1220">
 </a>
-<a href="https://github.com/ZeadShalaby?tab=followers"><img src="https://img.shields.io/github/followers/ZeadShalaby?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/salmahamdy1220?tab=followers"><img src="https://img.shields.io/github/followers/salmahamdy1220?label=Followers&style=social" alt="GitHub Badge"></a>
