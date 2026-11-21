@@ -106,6 +106,12 @@
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeadShalaby&show_icons=true&theme=dark&locale=en&count_private=true" alt="ZeadShalaby" /></p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeadShalaby&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeadShalaby&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ZeadShalaby&theme=tokyonight)
+
 <sub>*Note: most of my production work lives in private company repositories, so the stats above reflect public activity only.*</sub>
 
 ## 🌐 Socials:
