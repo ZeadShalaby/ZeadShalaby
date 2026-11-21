@@ -104,7 +104,11 @@
 <br>
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeadShalaby&show_icons=true&theme=dark&locale=en&count_private=true" alt="ZeadShalaby" /></p>
+<!--
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeadShalaby&show_icons=true&theme=dark&locale=en&count_private=true" />
+</p>
+-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeadShalaby&show_icons=true&theme=tokyonight)
 
